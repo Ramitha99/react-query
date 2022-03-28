@@ -32,6 +32,7 @@ const Qform = () => {
           onChange={(e) => setText2(e.target.value)}
         />
       </div>
+      <label>Question 3</label>
       <div className="dropdown-control">
         <Multiselect options={options} displayValue="item" />
       </div>
