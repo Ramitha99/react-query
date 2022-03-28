@@ -50,7 +50,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Components Folder -> Qform.js
 #### Inputs
 - Line 8 - 12 (Item : answers) - items that goes in drop down
-- Line 18, 27 (question you need to aske)
+- Line 18, 27, 35 (question you need to aske)
 - Line 21, 30 (placeholders for questions)
 
 
